@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+
+# Local data and experiment artifacts
+data/
+saves/
+models/
+outputs/
+Outputs/
+logs/
+figures/
+deep_dive_outputs/
+
+# Local editor/history state
+.history/
+
+# Notebooks are kept local for exploration, not for the cleaned repository.
+*.ipynb
